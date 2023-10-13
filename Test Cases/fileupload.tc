@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>fileupload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ed9c93b-b501-445d-8fc0-a94305bff1df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ade348f-8ecf-42fa-bdb2-801aff38652e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\BARBELL STRENGTH\\\\Downloads\\\\utilization-report.pdf'</defaultValue>
+      <description></description>
+      <id>7ade348f-8ecf-42fa-bdb2-801aff38652e</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
