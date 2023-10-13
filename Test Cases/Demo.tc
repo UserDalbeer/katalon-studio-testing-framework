@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5df8589e-bc8b-41f5-b366-d17d61c3d66b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e77d14b2-39ef-4ce9-98af-1c017501188d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>537eefa9-55f5-4975-b330-2ad3fd7cbf99</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>425ddb5c-8b16-4e30-87e0-9dc2be059a09</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ae2bc75-10d0-43e0-a997-a9b45767f76b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\BARBELL STRENGTH\\\\Downloads\\\\utilization-report.pdf'</defaultValue>
+      <description></description>
+      <id>e77d14b2-39ef-4ce9-98af-1c017501188d</id>
+      <masked>false</masked>
+      <name>filenew</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\BARBELL STRENGTH\\\\Downloads\\\\file2.pdf'</defaultValue>
+      <description></description>
+      <id>537eefa9-55f5-4975-b330-2ad3fd7cbf99</id>
+      <masked>false</masked>
+      <name>filetw</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\BARBELL STRENGTH\\\\Downloads\\\\slb28 (8).pdf'</defaultValue>
+      <description></description>
+      <id>425ddb5c-8b16-4e30-87e0-9dc2be059a09</id>
+      <masked>false</masked>
+      <name>fileth</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\BARBELL STRENGTH\\\\Downloads\\\\file6.pdf'</defaultValue>
+      <description></description>
+      <id>0ae2bc75-10d0-43e0-a997-a9b45767f76b</id>
+      <masked>false</masked>
+      <name>filefo</name>
+   </variable>
+</TestCaseEntity>
